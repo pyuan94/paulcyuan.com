@@ -28,8 +28,8 @@
 							<ul>
 								<li class="current"><a href="index.html">Home</a></li>
 								<li><a href="#aboutme">About Me</a></li>
-								<li><a href="#projects">Projects</a></li>
 								<li><a href="#experience">Experience / Volunteer</a></li>
+								<li><a href="#projects">Projects</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</nav>
@@ -78,20 +78,16 @@
 										</p>
 
 										<p>
-											I'm looking for a company where I can learn more about software
-											When I'm not in front of the computer programming or playing video games
-											chances are I'm in the kitchen cooking or out in the gym playing volleyball.
+											I'm currently looking for a company where I can contribute to as well as
+											learn more about programming. I'm an earnest student and I am looking for
+											opportunities to pick up new skills as well as refine current skills.
 
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
 										</p>
 
 										<p>
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
+											Aside from programming, I enjoy playing a variety of video games, playing volleyball
+											and cooking delicious food to eat. I also love delicious food and I'm always
+											on the lookout for new types of foods to try out!
 										</p>
 									</div>
 
@@ -131,13 +127,7 @@
 										</p>
 									</div>
 
-									<div class=mytext>
-										<h1> Instructor at CS4K (CS for kids) | (Volunteer)</h1>
-										<h2> Duration: 3 months | 2018</h2>
-										<p>
-											Vol
-										</p>
-									</div>
+
 
 									<div class=mytext>
 										<h1> CS Club tutor at University of Califoria Davis | (Volunteer)</h1>
@@ -153,6 +143,16 @@
 											</ul>
 									</div>
 
+									<div class=mytext>
+										<h1> Instructor at CS4K (CS for kids) | (Volunteer)</h1>
+										<h2> Duration: 3 months | 2018</h2>
+										<p>
+											Volunteered at a middle school alongside fellow UC Davis peers.
+											Introduced middle schoolers to Swift playgrounds and helped them
+											experience programming hands-on.
+										</p>
+									</div>
+									
 									<div class=mytext>
 										<h1>Math tutor at Shasta College</h1>
 										<h2> Duration: 10 months | 2015/2016</h2>
@@ -222,16 +222,11 @@
 			<!-- Footer -->
 
 				<section id="footer" class="wrapper">
-					<a name="contact"> </a>
-					<div class="title">Contact Info</div>
+					<a name="contact">
+						<div class="title">Contact Info</div>
+					</a>
 					<div class="container">
-						<header class="style1">
 
-							<h2>Contact preference </h2>
-							<p>
-								Feel free to contact me via email or by text.
-							</p>
-						</header>
 						<div class="row">
 
 
