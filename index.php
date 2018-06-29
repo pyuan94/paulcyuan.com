@@ -177,7 +177,8 @@
 				<section id="main" class="wrapper style2">
 
 					<a name=projects>
-					<div class="title">Projects</div>
+						<div class="title">Projects</div>
+					</a>
 					<div class="container">
 						<div class="row aln-center">
 							<div class="col-4 col-12-medium">
