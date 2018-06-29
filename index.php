@@ -176,8 +176,7 @@
 			<!-- Highlights -->
 				<section id="main" class="wrapper style2">
 
-					<a name=projects> <a/>
-
+					<a name=projects>
 					<div class="title">Projects</div>
 					<div class="container">
 						<div class="row aln-center">
