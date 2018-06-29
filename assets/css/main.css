@@ -181,6 +181,10 @@ input, select, textarea {
 		margin: 5px;
 		flex-direction: row;
 	}
+	div.mycontent2{
+		display: flex;
+		flex-direction: column;
+	}
 	div.mytext{
 		padding-right: 10px;
 	}

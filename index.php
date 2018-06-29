@@ -29,6 +29,7 @@
 								<li class="current"><a href="index.html">Home</a></li>
 								<li><a href="#aboutme">About Me</a></li>
 								<li><a href="#projects">Projects</a></li>
+								<li><a href="#experience">Experience / Volunteer</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</nav>
@@ -100,7 +101,71 @@
 
 					</div>
 				</section>
+				<section id="main" class="wrapper style3">
 
+					<a name="experience">
+					<div class="title">Experience / Volunteer</div>
+					<div class="container">
+
+
+						<!-- Features -->
+							<section id="features">
+
+								<div class=mycontent2>
+									<div class=mytext>
+										<h1>Intern at Computational Communcations Lab </h1>
+										<h2> Duration: 3 months | 2018</h2>
+										<p>
+											Interned with Computational Communcations Lab (C^2) where I worked with a team of 6
+											individuals research the effect that algorithims had on foreign currency exchange markets.
+											More specifically, helped process big sets of data using python scripts into readable and
+											presentable material. We processed 10 years worth of currency transactions in order analyze
+											the trend that trading algorithims have on currency exchanges.
+										</p>
+									</div>
+
+									<div class=mytext>
+										<h1> Instructor at CS4K (CS for kids) | (Volunteer)</h1>
+										<h2> Duration: 3 months | 2018</h2>
+										<p>
+											Vol
+										</p>
+									</div>
+
+									<div class=mytext>
+										<h1> CS Club tutor at University of Califoria Davis | (Volunteer)</h1>
+										<h2> Duration: 3 months | 2018</h2>
+										<p>
+											Tutored at UC Davis' computer lab helping fellow peers with programs and concepts.
+											Provided help with courses that involved these specific topis:
+										</p>
+											<ul>
+												<li>Object Oriented Programming</li>
+												<li>Data Structures </li>
+												<li>Computer Hardware</li>
+											</ul>
+									</div>
+
+									<div class=mytext>
+										<h1>Math tutor at Shasta College</h1>
+										<h2> Duration: 10 months | 2015/2016</h2>
+										<p>
+											Tutored at Shasta College's Math and Business Learning Center where I tutored all levels of math
+											offered. Learned to communicate abstract concepts in a way that tutees could understand.
+											</math>
+										</p>
+									</div>
+
+
+								</div>
+								<ul class="actions special">
+									<li><a href="#" class="button style1 large">Get Started</a></li>
+									<li><a href="#" class="button style2 large">More Info</a></li>
+								</ul>
+							</section>
+
+					</div>
+				</section>
 			<!-- Highlights -->
 				<section id="highlights" class="wrapper style3">
 
@@ -110,7 +175,7 @@
 						<div class="row aln-center">
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/photogallery.jpg" alt="" /></a>
 									<h3><a href="#">Photo Gallery</a></h3>
 									<p>Created a website where users could search through a database of photos</p>
 									<ul class="actions">
