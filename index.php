@@ -122,7 +122,7 @@
 								<section class="highlight">
 									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 									<h3><a href="#">User Thread Library</a></h3>
-									<p>Custom user thread library in c</p>
+									<p>Custom user thread library in C</p>
 									<ul class="actions">
 										<li><a href="#" class="button style1">Learn More</a></li>
 									</ul>
@@ -131,8 +131,8 @@
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
 									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-									<h3><a href="#">Algorithim implementations</a></h3>
-									<p>Implemented many algorithms for practice in understanding them better. </p>
+									<h3><a href="#">Another project goes here</a></h3>
+									<p>Work in progress </p>
 									<ul class="actions">
 										<li><a href="#" class="button style1">Learn More</a></li>
 									</ul>
@@ -152,10 +152,9 @@
 					<div class="container">
 						<header class="style1">
 
-							<h2>Ipsum sapien elementum portitor?</h2>
+							<h2>Contact preference </h2>
 							<p>
-								Sed turpis tortor, tincidunt sed ornare in metus porttitor mollis nunc in aliquet.<br />
-								Nam pharetra laoreet imperdiet volutpat etiam feugiat.
+								Feel free to contact me via email or by text.
 							</p>
 						</header>
 						<div class="row">
