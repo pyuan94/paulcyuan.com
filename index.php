@@ -44,9 +44,9 @@
 						<p class="style2">
 							I'm looking for a Software Engineering Position.
 						</p>
-						<p class="style3">It's <strong>responsive</strong>, built on <strong>HTML5</strong> and <strong>CSS3</strong>, and released for
-						free under the <a href="http://html5up.net/license">Creative Commons Attribution 3.0 license</a>, so use it for any of
-						your personal or commercial projects &ndash; just be sure to credit us!</p>
+						<p class="style3">My name is Paul Yuan, and I have a Bachelor's degree in Computer Science
+						from University of Californa. I graduated in 2018 and am currently looking for
+						a software engineering position.</p>
 						<ul class="actions">
 							<li><a href="#aboutme" class="button style3 large">Proceed</a></li>
 						</ul>
@@ -67,14 +67,21 @@
 								<div class=mycontent>
 									<div class=mytext>
 										<p>
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
+											Hi! I'm Paul and I'm a computer science graduate from the
+											University of California, Davis. I have a passion
+											for programming just about anything. However, my favorite classes during my college
+											career were the lower-leveled focused classes such as Operating Systems and Computer
+											Architecture. Something about how 1s and 0s get turned into functioning programs
+											really fascinates me. Aside from that I also enjoyed my Web Design class because
+											creating a functioning website by using front-end and back-end together was one of
+											the most rewarding thing I did in college.
 										</p>
 
 										<p>
-											My name is Paul Yuan, Im looking for stuff to do in the work thing
+											I'm looking for a company where I can learn more about software
+											When I'm not in front of the computer programming or playing video games
+											chances are I'm in the kitchen cooking or out in the gym playing volleyball.
+
 											My name is Paul Yuan, Im looking for stuff to do in the work thing
 											My name is Paul Yuan, Im looking for stuff to do in the work thing
 											My name is Paul Yuan, Im looking for stuff to do in the work thing
@@ -167,8 +174,9 @@
 					</div>
 				</section>
 			<!-- Highlights -->
-				<section id="highlights" class="wrapper style3">
+				<section id="main" class="wrapper style2">
 
+					<a name=projects> <a/>
 
 					<div class="title">Projects</div>
 					<div class="container">
@@ -176,7 +184,7 @@
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
 									<a href="#" class="image featured"><img src="images/photogallery.jpg" alt="" /></a>
-									<h3><a href="#">Photo Gallery</a></h3>
+									<h3>Photo Gallery</h3>
 									<p>Created a website where users could search through a database of photos</p>
 									<ul class="actions">
 										<li><a href="#" class="button style1">Learn More</a></li>
@@ -186,7 +194,7 @@
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
 									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-									<h3><a href="#">User Thread Library</a></h3>
+									<h3> User Thread Library</h3>
 									<p>Custom user thread library in C</p>
 									<ul class="actions">
 										<li><a href="#" class="button style1">Learn More</a></li>
@@ -196,8 +204,10 @@
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
 									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-									<h3><a href="#">Another project goes here</a></h3>
-									<p>Work in progress </p>
+									<h3> Pipelined MIPS Simulator </h3>
+									<p> Created a pipelined MIPS simulator using Logisim that could process
+										  a subset of MIPS commands.
+								  </p>
 									<ul class="actions">
 										<li><a href="#" class="button style1">Learn More</a></li>
 									</ul>
