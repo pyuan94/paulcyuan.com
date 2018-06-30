@@ -212,7 +212,7 @@
 									<ul class="actions">
 										<li><a href="./projects.html" class="button style1">Learn More</a></li>
 									</ul>
-									<!--
+								-->
 								</section>
 							</div>
 						</div>
