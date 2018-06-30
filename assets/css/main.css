@@ -186,7 +186,9 @@ input, select, textarea {
 		flex-direction: column;
 	}
 	div.mytext{
-		padding-right: 10px;
+		padding-right: 15vw;
+		padding-left: 15vw;
+		font-size: 18px;
 	}
 	#project_link{
 		position: inline-block;

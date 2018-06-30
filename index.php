@@ -41,9 +41,7 @@
 					<div class="title">Introduction</div>
 					<div class="container">
 						<p class="style1">So in case you were wondering what this is all about ...</p>
-						<p class="style2">
-							I'm looking for a Software Engineering Position.
-						</p>
+
 						<p class="style3">My name is Paul Yuan, and I have a Bachelor's degree in Computer Science
 						from University of Californa. I graduated in 2018 and am currently looking for
 						a software engineering position.</p>
@@ -81,13 +79,15 @@
 											I'm currently looking for a company where I can contribute to as well as
 											learn more about programming. I'm an earnest student and I am looking for
 											opportunities to pick up new skills as well as refine current skills.
-
+											I have a lot of experience tutoring and explaining technical and abstract
+											concepts to a variety of indivuduals. Been able to clearly communicate code
+											in a digestible way is one of my strongest skillsets.
 										</p>
 
 										<p>
 											Aside from programming, I enjoy playing a variety of video games, playing volleyball
-											and cooking delicious food to eat. I also love delicious food and I'm always
-											on the lookout for new types of foods to try out!
+											and cooking delicious food to eat. I'm always on the lookout for new types of
+											foods to try out!
 										</p>
 									</div>
 
@@ -96,10 +96,7 @@
 									</div>
 
 								</div>
-								<ul class="actions special">
-									<li><a href="#" class="button style1 large">Get Started</a></li>
-									<li><a href="#" class="button style2 large">More Info</a></li>
-								</ul>
+
 							</section>
 
 					</div>
@@ -116,10 +113,10 @@
 
 								<div class=mycontent2>
 									<div class=mytext>
-										<h1>Intern at Computational Communcations Lab </h1>
+										<h1>Intern at Computational Communications Lab </h1>
 										<h2> Duration: 3 months | 2018</h2>
 										<p>
-											Interned with Computational Communcations Lab (C^2) where I worked with a team of 6
+											Interned with Computational Communications Lab (C^2) where I worked with a team of 6
 											individuals research the effect that algorithims had on foreign currency exchange markets.
 											More specifically, helped process big sets of data using python scripts into readable and
 											presentable material. We processed 10 years worth of currency transactions in order analyze
@@ -133,7 +130,7 @@
 										<h1> CS Club tutor at University of Califoria Davis | (Volunteer)</h1>
 										<h2> Duration: 3 months | 2018</h2>
 										<p>
-											Tutored at UC Davis' computer lab helping fellow peers with programs and concepts.
+											Tutored at UC Davis' engineering computer lab helping fellow peers with programs and concepts.
 											Provided help with courses that involved these specific topis:
 										</p>
 											<ul>
@@ -152,7 +149,7 @@
 											experience programming hands-on.
 										</p>
 									</div>
-									
+
 									<div class=mytext>
 										<h1>Math tutor at Shasta College</h1>
 										<h2> Duration: 10 months | 2015/2016</h2>
@@ -165,10 +162,7 @@
 
 
 								</div>
-								<ul class="actions special">
-									<li><a href="#" class="button style1 large">Get Started</a></li>
-									<li><a href="#" class="button style2 large">More Info</a></li>
-								</ul>
+
 							</section>
 
 					</div>
@@ -183,34 +177,42 @@
 						<div class="row aln-center">
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/photogallery.jpg" alt="" /></a>
+									<a class="image featured"><img src="images/photogallery.jpg" alt="" /></a>
 									<h3>Photo Gallery</h3>
-									<p>Created a website where users could search through a database of photos</p>
+									<p>Created a website where users could search through a database of photos.
+									</p>
+									<!--
 									<ul class="actions">
 										<li><a href="#" class="button style1">Learn More</a></li>
 									</ul>
+									-->
 								</section>
 							</div>
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-									<h3> User Thread Library</h3>
-									<p>Custom user thread library in C</p>
+									<a class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<h3> User-level Thread Library</h3>
+									<p>Using C, created a custom preemptive user-level thread library.
+								  </p>
+									<!--
 									<ul class="actions">
 										<li><a href="#" class="button style1">Learn More</a></li>
 									</ul>
+									-->
 								</section>
 							</div>
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a class="image featured"><img src="images/mips.png" alt="" /></a>
 									<h3> Pipelined MIPS Simulator </h3>
 									<p> Created a pipelined MIPS simulator using Logisim that could process
 										  a subset of MIPS commands.
 								  </p>
+									<!--
 									<ul class="actions">
-										<li><a href="#" class="button style1">Learn More</a></li>
+										<li><a href="./projects.html" class="button style1">Learn More</a></li>
 									</ul>
+									<!--
 								</section>
 							</div>
 						</div>
