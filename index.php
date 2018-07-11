@@ -113,7 +113,7 @@
 
 								<div class=mycontent2>
 									<div class=mytext>
-										<h1>Intern at Computational Communications Lab </h1>
+										<h1>Undergraduate Researcher at Computational Communications Lab </h1>
 										<h2> Duration: 3 months | 2018</h2>
 										<p>
 											Interned with Computational Communications Lab (C^2) where I worked with a team of 6
@@ -191,8 +191,8 @@
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
 									<a class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-									<h3> User-level Thread Library</h3>
-									<p>Using C, created a custom preemptive user-level thread library.
+									<h3> Set Associative Non-Blocking Cache</h3>
+									<p>Using C++, created cache simulator using MSHRs to track outstanding requests.
 								  </p>
 									<!--
 									<ul class="actions">
@@ -204,9 +204,8 @@
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
 									<a class="image featured"><img src="images/mips.png" alt="" /></a>
-									<h3> Pipelined MIPS Simulator </h3>
-									<p> Created a pipelined MIPS simulator using Logisim that could process
-										  a subset of MIPS commands.
+									<h3> Bloom Filter with Random Matrix Hash</h3>
+									<p> Implemented a bloom filter in C++ that used a random matrix hash.
 								  </p>
 									<!--
 									<ul class="actions">
